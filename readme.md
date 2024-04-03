@@ -10,7 +10,7 @@
 
 ### 1.1 直接连接校园网
 
-![校园网界面](img\校园网界面.png)
+![校园网界面](https://raw.githubusercontent.com/northWind-666/YSU-NetLogin/master/img/%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%95%8C%E9%9D%A2.png)
 
 在info.txt中输入
 
@@ -18,13 +18,13 @@
 
 2. 第二行输入密码
 
-3. 第三行输入 中国联通/中国移动/中国电信/校园网 ![运营商](img\运营商.png)
+3. 第三行输入 中国联通/中国移动/中国电信/校园网 ![运营商](https://github.com/northWind-666/YSU-NetLogin/raw/master/img/运营商.png)
 
 4.  第四行输入网页连接，每台电脑连接不同
 
 最终的info.txt配置如
 
-![info.txt配置](img\直接连接.png)
+![info.txt配置](https://github.com/northWind-666/YSU-NetLogin/raw/master/img/直接连接.png)
 
 ### 1.2 发送邮件
 
@@ -37,7 +37,7 @@
 
 最终的info.txt配置如
 
-![info.txt配置](img\发送邮件.png)
+![info.txt配置](https://github.com/northWind-666/YSU-NetLogin/raw/master/img/发送邮件.png)
 
 ## 2.邮箱的SMTP登录
 
